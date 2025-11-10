@@ -1,0 +1,2 @@
+# .github
+POC GLOBAL COMMUNITY
