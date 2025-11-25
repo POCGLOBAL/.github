@@ -1,6 +1,6 @@
 # POC GLOBAL COMMUNITY
 
-![generated-image](https://github.com/user-attachments/assets/a82e306e-00e6-4180-8df9-ec3063946423)
+![generated-image](https://avatars.githubusercontent.com/u/243044201)
 
 
 POC GLOBAL COMMUNITY is a worldwide network bringing together individuals and groups who communicate using Push-to-Talk Over Cellular (PoC) technology via mobile devices and applications such as Zello, TeamSpeak, and similar platforms. The community serves as an open hub, connecting enthusiasts, professional users, and local communities across different countries.
